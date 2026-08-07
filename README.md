@@ -110,6 +110,7 @@ End-to-End-Supply-Chain-Analysis/
 ├── 📊 DataCoSupplyChainDataset.csv
 ├── 📄 Supply_Chain_Performance_Report.pdf
 └── 📖 README.md
+
 ### 📓 [Python Notebook](./Supply%20Chain%20Analysis.ipynb)
 
 Complete data analysis, visualization, and predictive modeling.
@@ -132,9 +133,7 @@ Detailed business findings, recommendations, and predictive model results.
 
 Passionate about transforming data into actionable insights and supporting data-driven business decisions.
 
-**Areas of Interest:** Data Analytics • Business Intelligence • Predictive Analytics • Supply Chain Analytics
-
-🔗 [LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](YOUR_GITHUB_URL)
+🔗 [LinkedIn](https://www.linkedin.com/in/anurag-kumar-poddar-51239596/) • [GitHub](https://github.com/anuragkumarpoddar-ui)
 
 ---
 
