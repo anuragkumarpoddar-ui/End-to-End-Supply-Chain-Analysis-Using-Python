@@ -94,35 +94,6 @@ The company is facing inconsistent delivery performance, where actual shipping t
 
 **Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | SMOTE | Jupyter Notebook**
 
-
-
----
-
-
-## 📁 Repository Contents
-
-
-
-
-End-to-End-Supply-Chain-Analysis/
-│
-├── 📓 Supply Chain Analysis.ipynb
-├── 📊 DataCoSupplyChainDataset.csv
-├── 📄 Supply_Chain_Performance_Report.pdf
-└── 📖 README.md
-
-### 📓 [Python Notebook](./Supply%20Chain%20Analysis.ipynb)
-
-Complete data analysis, visualization, and predictive modeling.
-
-### 📊 [Dataset](./DataCoSupplyChainDataset.csv)
-
-Order-level supply chain dataset used for the analysis.
-
-### 📄 [Project Report](./Supply_Chain_Performance_Report.pdf)
-
-Detailed business findings, recommendations, and predictive model results.
-
 ---
 
 ## 👤 About the Author
