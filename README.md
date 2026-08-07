@@ -59,18 +59,28 @@ The company is facing inconsistent delivery performance, where actual shipping t
 ## 📊 Project Visualizations
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4a2ccddf-eec1-4179-9dbb-99bf12ea473b" width="48%">
-  <img src="https://github.com/user-attachments/assets/af07c1ac-fe13-48a0-ac81-0f14d91b86ae" width="48%">
+  <img width="567" height="470" alt="1" src="https://github.com/user-attachments/assets/afd248ac-88e1-49b5-a950-549b2bb1c39e" />
+
+</p>
+<img width="1257" height="491" alt="2" src="https://github.com/user-attachments/assets/03f1f533-6eb2-4c3f-a1d7-1ffd9b488c17" />
+
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e9f54f05-1203-4446-bb26-f36d6ac9a329" width="48%">
-  <img src="https://github.com/user-attachments/assets/dc7b72f4-a3c1-418f-9bac-e1548185720e" width="48%">
+  <img width="1243" height="580" alt="3" src="https://github.com/user-attachments/assets/e6390045-c79b-4a7d-868e-3716c6fedfd5" />
+
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3314840b-6e76-42b5-a100-17d7152b0b92" width="48%">
-  <img src="https://github.com/user-attachments/assets/d0936926-8cfa-47c2-9aa3-66116874f043" width="48%">
+ <img width="988" height="523" alt="4" src="https://github.com/user-attachments/assets/655b0a3b-fd58-48f4-b95e-884097bb138f" />
+
+
+</p>
+
+<p align="center">
+ <img width="1247" height="440" alt="5" src="https://github.com/user-attachments/assets/3b9bb6d2-0c62-4940-9519-1ce29d9ba1a4" />
+
+
 </p>
 
 ### Major Insights
