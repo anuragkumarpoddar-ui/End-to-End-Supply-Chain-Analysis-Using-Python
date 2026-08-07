@@ -1,1 +1,151 @@
-# End-to-End-Supply-Chain-Analysis-Using-Python
+# 📦 End-to-End Supply Chain Analysis Using Python
+
+### Analyzing Delivery Performance, Bottlenecks, Profitability & Late-Delivery Risk
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?logo=scikit-learn)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
+
+---
+
+## 📌 Project Overview
+
+This project analyzes **172,765 orders** from a global e-commerce supply chain to understand delivery delays, operational bottlenecks, and their impact on profitability.
+
+The project combines **Python-based data analysis, visualization, and machine learning** to identify late-delivery patterns and build a predictive system for proactive risk management.
+
+---
+
+## 🚨 Business Problem
+
+The company is facing inconsistent delivery performance, where actual shipping times frequently deviate from scheduled timelines.
+
+### 🎯 Objectives
+
+- Identify major causes and bottlenecks behind delivery delays
+- Analyze the impact of delays on profitability
+- Identify high-risk operational segments
+- Predict orders likely to be delivered late
+- Provide actionable business recommendations
+
+---
+
+## 🔍 Analysis Performed
+
+- Data Cleaning & Preparation
+- Exploratory Data Analysis (EDA)
+- Delivery & Shipping Performance Analysis
+- Regional & Product Analysis
+- Profitability & Profit-at-Risk Analysis
+- Bottleneck & Root Cause Analysis
+- Time-Based Analysis
+- Predictive Modeling using **Random Forest**
+- Class Imbalance Handling using **SMOTE**
+
+---
+
+## 📊 Key Findings
+
+| Metric | Result |
+|---|---:|
+| Total Orders | **172,765** |
+| Late Delivery Rate | **54.71%** |
+| On-Time Delivery Rate | **45.29%** |
+| Profit at Risk | **$2.1M** |
+| Loss-Making Orders | **18.7%** |
+| Random Forest Accuracy | **74%** |
+
+### Major Insights
+
+- 🚚 **First Class:** 100% delay rate
+- 🚚 **Second Class:** 79.8% delay rate
+- 💰 Approximately **$2.1M profit at risk** from delayed orders
+- 🌍 Delivery delays are broadly distributed across regions
+- 💳 Payment processing was identified as an additional bottleneck
+- 🤖 Random Forest achieved **74% accuracy** and **75% recall for late deliveries**
+
+---
+
+## 💡 Business Recommendations
+
+- Audit First Class and Second Class shipping performance.
+- Introduce predictive late-delivery alerts for high-risk orders.
+- Reduce payment-processing bottlenecks.
+- Improve seasonal fulfillment and capacity planning.
+- Investigate high-risk product-region combinations.
+- Reevaluate shipping-mode assignment using delivery risk, cost, and profitability.
+
+---
+
+## 🚀 Future Scope
+
+- Compare additional ML models such as XGBoost and Gradient Boosting.
+- Implement **SHAP** for model explainability.
+- Develop prescriptive shipping recommendations.
+- Build a **Power BI Supply Chain Control Tower**.
+- Integrate real-time risk monitoring.
+- Explore cloud deployment using **AWS, Azure, or Microsoft Fabric**.
+
+---
+
+
+## 🛠️ Tools & Technologies
+
+**Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | SMOTE | Jupyter Notebook**
+
+
+
+---
+
+
+## 📁 Repository Contents
+
+
+
+
+End-to-End-Supply-Chain-Analysis/
+│
+├── 📓 Supply Chain Analysis.ipynb
+├── 📊 DataCoSupplyChainDataset.csv
+├── 📄 Supply_Chain_Performance_Report.pdf
+└── 📖 README.md
+### 📓 [Python Notebook](./Supply%20Chain%20Analysis.ipynb)
+
+Complete data analysis, visualization, and predictive modeling.
+
+### 📊 [Dataset](./DataCoSupplyChainDataset.csv)
+
+Order-level supply chain dataset used for the analysis.
+
+### 📄 [Project Report](./Supply_Chain_Performance_Report.pdf)
+
+Detailed business findings, recommendations, and predictive model results.
+
+---
+
+## 👤 About the Author
+
+### **Anurag Kumar Poddar**
+
+**Data Analyst | Python | SQL | Power BI | Excel**
+
+Passionate about transforming data into actionable insights and supporting data-driven business decisions.
+
+**Areas of Interest:** Data Analytics • Business Intelligence • Predictive Analytics • Supply Chain Analytics
+
+🔗 [LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](YOUR_GITHUB_URL)
+
+---
+
+## 🙏 Thank You for Visiting!
+
+Thank you for taking the time to explore this project.
+
+⭐ If you found this project useful, please consider **starring the repository**.
+
+💬 **Feedback and suggestions are always welcome!**
+
+> **Data → Insights → Decisions → Impact**
+
+### ⭐ If you found this project valuable, don't forget to star the repository!
