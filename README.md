@@ -56,6 +56,23 @@ The company is facing inconsistent delivery performance, where actual shipping t
 | Loss-Making Orders | **18.7%** |
 | Random Forest Accuracy | **74%** |
 
+## 📊 Project Visualizations
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4a2ccddf-eec1-4179-9dbb-99bf12ea473b" width="48%">
+  <img src="https://github.com/user-attachments/assets/af07c1ac-fe13-48a0-ac81-0f14d91b86ae" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e9f54f05-1203-4446-bb26-f36d6ac9a329" width="48%">
+  <img src="https://github.com/user-attachments/assets/dc7b72f4-a3c1-418f-9bac-e1548185720e" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3314840b-6e76-42b5-a100-17d7152b0b92" width="48%">
+  <img src="https://github.com/user-attachments/assets/d0936926-8cfa-47c2-9aa3-66116874f043" width="48%">
+</p>
+
 ### Major Insights
 
 - 🚚 **First Class:** 100% delay rate
